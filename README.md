@@ -14,11 +14,6 @@ This project is divided into two part:
     - Used __Sentry__ to catch the exception on the back-end.
     - After uploading the image, the predictions are displayed on a __Bar Chart__.
 
-## Installation
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
-```bash
-pip install -r requirements.txt
-```
 
 ## To Do
 1. Convert the app to run without any internet connection, i.e. __PWA__.
@@ -27,11 +22,6 @@ pip install -r requirements.txt
 
 ## Technologies Used
 
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://www.kindpng.com/picc/b/301/3012484.png" width=200>](https://aws.amazon.com/s3/) 
-
-[<img target="_blank" src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width=270>](https://www.sentry.io/) [<img target="_blank" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width=100>](https://jquery.com/)
 
 
 ## Credits
